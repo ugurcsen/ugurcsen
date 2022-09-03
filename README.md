@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**ugurcsen/ugurcsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Go and Laravel
+- 🌱 I’m currently learning Databases for Data Scientists Specialization on Coursera
+- 👯 I’m looking to collaborate on Go projects
+- 🤔 I’m looking for help with unix socket programing
+- 💬 Ask me about Go, PHP and JavaScript
+- 📫 How to reach me: [ugurcsen@outlook.com](mailto:ugurcsen@outlook.com)
+- 🌍 Website: [ugurcsen.com](https://ugurcsen.com)
 
-Here are some ideas to get you started:
+### My Loves
+![My Loves](https://skillicons.dev/icons?i=go,php,laravel,linux)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Skills
+![My Skills](https://skillicons.dev/icons?i=go,php,laravel,linux,javascript,nodejs,py,c,mysql,postgresql,arduino,docker)
+
+### My Plans
+![My Plans](https://skillicons.dev/icons?i=react,nextjs,dotnet,mongodb,redis,kubernetes,alpinejs)
