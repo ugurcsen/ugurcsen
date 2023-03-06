@@ -12,10 +12,9 @@
 ![My Loves](https://skillicons.dev/icons?i=go,php,laravel,linux)
 
 ### My Skills
-![My Skills](https://skillicons.dev/icons?i=go,php,laravel,linux,javascript,nodejs,py,c,mysql,postgresql,arduino,docker)
+![My Skills](https://skillicons.dev/icons?i=go,php,laravel,linux,nodejs,react,nextjs,py,c,mysql,postgresql,arduino,docker)
 
 ### My Plans
-![My Plans](https://skillicons.dev/icons?i=react,nextjs,dotnet,mongodb,redis,kubernetes,alpinejs)
+![My Plans](https://skillicons.dev/icons?i=dotnet,mongodb,redis,kubernetes)
 
 ![Ugur SEN's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugurcsen&theme=gotham&show_icons=true)
-![Ugur SEN's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ugurcsen&theme=gotham&langs_count=8&layout=compact)
