@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Go and Laravel
-- 🌱 I’m currently learning Databases for Data Scientists Specialization on Coursera
+- 🔭 I’m currently working on Go and JavaScript
+- 🌱 I’m currently learning Kubernetes
 - 👯 I’m looking to collaborate on Go projects
 - 🤔 I’m looking for help with unix socket programing
 - 💬 Ask me about Go, PHP and JavaScript
