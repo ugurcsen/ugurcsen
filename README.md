@@ -12,7 +12,7 @@
 ![My Loves](https://skillicons.dev/icons?i=go,php,laravel,linux)
 
 ### My Skills
-![My Skills](https://skillicons.dev/icons?i=go,php,laravel,linux,nodejs,react,nextjs,py,c,mysql,postgresql,arduino,docker)
+![My Skills](https://skillicons.dev/icons?i=go,php,laravel,linux,nodejs,angular,react,nextjs,py,c,mysql,postgresql,arduino,docker)
 
 ### My Plans
 ![My Plans](https://skillicons.dev/icons?i=dotnet,mongodb,redis,kubernetes)
