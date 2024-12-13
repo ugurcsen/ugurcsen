@@ -15,6 +15,6 @@
 ![My Skills](https://skillicons.dev/icons?i=go,php,laravel,linux,nodejs,angular,react,nextjs,py,c,mysql,postgresql,arduino,docker)
 
 ### My Plans
-![My Plans](https://skillicons.dev/icons?i=dotnet,mongodb,redis,kubernetes)
+![My Plans](https://skillicons.dev/icons?i=mongodb,redis,kubernetes)
 
 ![Ugur SEN's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugurcsen&theme=gotham&show_icons=true)
