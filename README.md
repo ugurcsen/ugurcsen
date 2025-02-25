@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Go and JavaScript
 - 🌱 I’m currently learning Kubernetes
 - 👯 I’m looking to collaborate on Go projects
-- 🤔 I’m looking for help with unix socket programing
+- 🤔 I’m looking for help with unix socket programming
 - 💬 Ask me about Go, PHP and JavaScript
 - 📫 How to reach me: [ugurcsen@outlook.com](mailto:ugurcsen@outlook.com)
 - 🌍 Website: [ugurcsen.com](https://ugurcsen.com)
@@ -15,6 +15,6 @@
 ![My Skills](https://skillicons.dev/icons?i=go,php,laravel,linux,nodejs,angular,react,nextjs,py,c,mysql,postgresql,arduino,docker)
 
 ### My Plans
-![My Plans](https://skillicons.dev/icons?i=mongodb,redis,kubernetes)
+![My Plans](https://skillicons.dev/icons?i=mongodb,redis,kubernetes,java)
 
 ![Ugur SEN's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugurcsen&theme=gotham&show_icons=true)
